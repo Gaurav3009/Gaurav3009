@@ -31,12 +31,12 @@
 
 <div style="display : flex; justify-content : center; flex-direction : column; align-items : center;">
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav3009&show_icons=true&locale=en&layout=compact&theme=radical" alt="gaurav3009" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav3009&show_icons=true&locale=en&layout=compact&theme=radical" alt="gaurav3009" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav3009&show_icons=true&locale=en&theme=tokyonight" alt="gaurav3009" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav3009&show_icons=true&locale=en&theme=tokyonight" alt="gaurav3009" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav3009&theme=synthwave" alt="gaurav3009" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav3009&theme=synthwave" alt="gaurav3009" /></p>
 
 </div>
